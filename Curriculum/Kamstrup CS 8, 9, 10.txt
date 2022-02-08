@@ -1,0 +1,22 @@
+Agenda:
+======
+
+-->	 8.30 Welcome
+
+	 ?.?? Module 01: “An Introduction to C# 8”
+	 ?.?? Module 01 Lab Session
+	 ?.?? Lab 01 Solutions
+	 ?.?? Module 02: “An Introduction to C# 9”
+	 ?.?? Module 02 Lab Session
+	 ?.?? Lab 02 Solutions
+	 ?.?? Module 03: “What’s New in C# 10?”
+	 ?.?? Module 03 Lab Session
+	 ?.?? Lab 03 Solutions
+
+   ~16.30 End of the course
+
+
+Material:
+========
+
+https://github.com/wincubate/kamstrup-cs10
