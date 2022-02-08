@@ -10,7 +10,7 @@ namespace Wincubate.CS7.Slide16
         {
             Person elJefe = new Person { FirstName = "Ash", LastName = "Williams" };
 
-            var (first, last) = elJefe;
+            //var (first, last) = elJefe;
 
             //WriteLine(first);
         }
